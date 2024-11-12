@@ -1,6 +1,3 @@
-Here’s the `README.md` file with your ASCII art logo and the main file as `watch.py`:
-
----
 
 # WatchTower 🚨
 
@@ -102,6 +99,4 @@ Contributions are encouraged! Feel free to fork the repo, create a branch, and s
 
 WatchTower is open-source software, licensed under the MIT License.
 
----
 
-Let me know if you’d like any more adjustments!
